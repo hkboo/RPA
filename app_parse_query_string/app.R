@@ -17,7 +17,7 @@ ui <- fluidPage(
     
     # Application title
     titlePanel("TEST. parseQueryString()"),
-    h3("2021-07-14 hkboo@kookmin.ac.kr"),
+    h3("2021-11-12 hkboo@kookmin.ac.kr"),
     h4("This is a test app about parseQueryString()"),
     p("Parameters: x1, x2, x3, x4, x5"),
     p("Example 1. https://hkboo.shinyapps.io/app_parse_query_string/?x1=tester"),
